@@ -1,9 +1,11 @@
 # Django
 
-      Django Web login
+      Use Django to Create web login
 
 
-
-    Workspace = mysite
+      Workspace Directory = mysite
   
-  App = blog
+      App = blog
+
+      
+      
