@@ -1,9 +1,9 @@
 # Django
 
-  Django Web login
+      Django Web login
 
 
 
-  Workspace = mysite
+    Workspace = mysite
   
   App = blog
