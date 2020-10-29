@@ -3,6 +3,6 @@
 Django Web login
 
 
-Workspace = mysite
 
-App = blog
+  Workspace = mysite
+  App = blog
